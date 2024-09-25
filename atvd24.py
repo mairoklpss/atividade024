@@ -8,4 +8,4 @@ while True:
     n += numero
     contador += 1
     mediaCalculada = n/contador
-print(f"a média dos números digitados é: {mediaCalculada}")
+print(f"a média dos números digitados é: {mediaCalculada:.1f}")
